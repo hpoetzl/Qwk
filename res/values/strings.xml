@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="hello">Hello World, QwkActivity!</string>
     <string name="app_name">Qwk</string>
-
+    <string name="button_search">Search</string>
+    <string name="search_default">What you looking for?</string>
 </resources>
